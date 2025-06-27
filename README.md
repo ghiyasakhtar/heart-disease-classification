@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Ghiyas Akhtar Razi Ramadhan
+# Machine Learning Project - Early Prediction for Heart Disease
 
 ## Domain Proyek
 
